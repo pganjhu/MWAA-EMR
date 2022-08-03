@@ -1,7 +1,7 @@
 # MWAA-EMR
 Creating a data pipeline to execute Spark/Scala jar file for data load and data trasfer using Amazon Managed Workflows for Apache Airflow (MWAA) 
 
---
+
 
 # AWS Services- 
 
@@ -9,7 +9,7 @@ Creating a data pipeline to execute Spark/Scala jar file for data load and data 
 ####  ii. Amazon EMR (previously called Amazon Elastic MapReduce) https://aws.amazon.com/emr/
 ####  iii. S3 bucket 
 
---
+
 
 # Other Requiremets-
 
@@ -17,7 +17,7 @@ Creating a data pipeline to execute Spark/Scala jar file for data load and data 
 ####  ii. postgresql-42.2.24.jar
 ####  iii. PEM file
 
--- 
+ 
 
 # Step Wise Guide-
-#### https://pawankg.medium.com/mwaa-emr-s3-scala-in-a-spark-postgresql-mysql-7ea6553b1bf3
+https://pawankg.medium.com/mwaa-emr-s3-scala-in-a-spark-postgresql-mysql-7ea6553b1bf3
